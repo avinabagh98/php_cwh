@@ -41,7 +41,7 @@
 </head>
 <body>
     <div class="container">
-        <h3>Welcome To MCKVIE Student Form</h3>
+        <h3>Welcome To  MCKVIE Student Form</h3>
         <p>Hello MCKVIANS enter your details and submit this form</p>
         <form action="index1.php" method="post">
             <input type="name" name="name" id="name" placeholder="Enter your name">
