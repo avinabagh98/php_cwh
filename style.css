@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 5px;
+}
+
+.container{
+    max-width: 70%;
+    background-color: aqua;
+    padding: 10px;
+    margin: auto;
+}
+.container h3,p{
+    text-align: center;
+}
+.btn{
+    width: 80px;
+    color: coral;
+    cursor: pointer;
+}
